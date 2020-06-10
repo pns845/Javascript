@@ -1,2 +1,6 @@
 The <!DOCTYPE html> declaration defines that this document is an HTML5 document
 The <head> element contains meta information about the HTML page
+body --has visible content in the web browser
+viewport --makes it compatible to view in web and desktop
+ul-unorder list 
+li--list items
