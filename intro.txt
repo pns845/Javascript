@@ -1,0 +1,2 @@
+The <!DOCTYPE html> declaration defines that this document is an HTML5 document
+The <head> element contains meta information about the HTML page
