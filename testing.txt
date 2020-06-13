@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>Testing</title>
+<meta name='description' content='page description here'/>
+<meta name='viewport' content='width-device-width, initial-scale=1'/>
+<body>
+<p>This is first paragraph </p>
+<p>This is scond paragraph </p>
+<p>This is Line1.<br>This is Line2.<br>This is Line3</p>
+<p>This is Line4.<br>This is Line5.&nbsp;&nbsp;&nbsp;&nbsp;&nbspThis is Line6</p>
+<h1>this is larger header</h1>
+<h2>this is second larger header</h2>
+<h3>this is third larger header</h3>
+<h4>this is fourth larger header</h4>
+<h5>this is smallest header</h5>
+<p><strong>to make text bold use strong tag</strong><br>
+   <em>to make text italic use em tag</em><br>
+   <u>to make text underline use u tag</u><br>
+   <strike>to make text strikethorugh use strike tag</strike><br>
+   <strong><em><u>combinationation of all</u></em></strong>
+</p>
+<p><font face='arial' size='10' color='blue'>checking fonts and colours inline formatting</font></p>
+<h3>Sample Unorderlist</h3>
+<ul>
+<li>list item1</li>
+<li>list item2</li>
+<li>list item3</li>
+<li>list item4</li>
+</ul>
+<h3>Sample Orderlist</h3>
+<ol>
+<li>orderlist item1</li>
+<li>orderlist item2</li>
+<li>orderlist item3</li>
+<li>orderlist item4</li>
+</ol>
+<h3>Image insertion</h3>
+<p>
+<img src="1.jpg" width="400" height="300">
+<img src="2.jpg" width='500' height='200'>
+<img src="https://www.google.com/search?q=rose&safe=active&rlz=1C1GCEV_en&sxsrf=ALeKk00MWXhXnkF0GkQQjgASS7EfMwwgrg:1591811910229&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiJgdW76ffpAhW67HMBHa1CCWwQ_AUoAXoECBQQAw&biw=1366&bih=657#imgrc=DmXGYSA7ya8gkM" width="400" height="300">
+</p>
+</head>
+</html>
