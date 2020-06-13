@@ -4,3 +4,5 @@ body --has visible content in the web browser
 viewport --makes it compatible to view in web and desktop
 ul-unorder list 
 li--list items
+to open link in new window use _target=blank
+to play video we need to use controls,if controls is not used to play it automatically use autoplay
