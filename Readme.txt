@@ -7,3 +7,4 @@ if the table width has to be constant irrespective of browser is maximised or mi
 colspan---defines the number of coulmns the cell should merge
 nowrap--- if we donot want to wrap text you can use nowrap 
 to add background use--background attribute
+to align the cell text to the right or left or center use align attribute
