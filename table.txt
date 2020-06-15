@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+ <head>
+     <meta character="utf-8">
+     <title>Table Tutorial</title>
+ </head>
+   <body>
+       <table width=100% border="1" bordercolor="red" cellspacing="2" cellpadding="2">
+	    <tr>
+	      <td>Employee Name	</td>
+	       <td>Employee ID </td>
+	     </tr>
+	     <tr>
+	      <td>pns </td>
+	       <td>1234</td>
+	     </tr>
+	     <tr>
+	      <td>rns</td>
+	       <td>456</td>
+	     </tr>
+	     <tr>
+	      <td>pvv</td>
+	       <td>789</td>
+	     </tr>
+
+  	</table>
+
+   </body>
+   
+</html>
