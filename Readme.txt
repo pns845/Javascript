@@ -8,3 +8,4 @@ colspan---defines the number of coulmns the cell should merge
 nowrap--- if we donot want to wrap text you can use nowrap 
 to add background use--background attribute
 to align the cell text to the right or left or center use align attribute
+The title attribute defines some extra information about an element.The value of the title attribute will be displayed as a tooltip when you mouse over the element.
