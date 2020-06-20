@@ -9,3 +9,7 @@ nowrap--- if we donot want to wrap text you can use nowrap
 to add background use--background attribute
 to align the cell text to the right or left or center use align attribute
 The title attribute defines some extra information about an element.The value of the title attribute will be displayed as a tooltip when you mouse over the element.
+alt attribute for the <img> tag specifies an alternate text for an image, if the image for some reason cannot be displayed. 
+The style attribute is used to add styles to an element, such as color, font, size, and more.
+lang attribute inside the <html> tag, to declare the language of the Web page. This is meant to assist search engines and browsers.
+The href attribute of <a> specifies the URL of the page the link goes to
