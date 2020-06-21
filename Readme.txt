@@ -23,3 +23,6 @@ The CSS background-color property defines the background color for an HTML eleme
 The CSS color property defines the text color for an HTML element.
 The CSS font-family property defines the font to be used for an HTML element.
 The CSS font-size property defines the text size for an HTML element.
+The CSS text-align property defines the horizontal text alignment for an HTML element.
+<b> - Bold text, <strong> - Important text,<i> - Italic text,<em> - Emphasized text,<mark> - Marked text,<small> - Smaller text
+<del> - Deleted text,<ins> - Inserted text,<sub> - Subscript text,<sup> - Superscript text
